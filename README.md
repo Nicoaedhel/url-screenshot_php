@@ -1,16 +1,10 @@
 # urlscreenshot
 
-A Composer php package for https://url-screenshot.com
+A php package for https://url-screenshot.com
 
 ## Usage
 
-First, install the package using Composer:
-
-
-    composer require urlscreenshot
-
-
-Then, require the package and use it like so:
+Require the package and use it like so:
 
 
 ```bash
